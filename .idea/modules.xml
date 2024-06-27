@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/xpu-club.iml" filepath="$PROJECT_DIR$/.idea/xpu-club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application-controller/xpu-club-application-controller.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application-controller/xpu-club-application-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application-job/xpu-club-application-job.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application-job/xpu-club-application-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application-mq/xpu-club-application-mq.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-application/xpu-club-application-mq/xpu-club-application-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-api/xpu-club-auth-api.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-api/xpu-club-auth-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application-controller/xpu-club-auth-application-controller.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application-controller/xpu-club-auth-application-controller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application-job/xpu-club-auth-application-job.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application-job/xpu-club-auth-application-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application-mq/xpu-club-auth-application-mq.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-application/xpu-club-auth-application-mq/xpu-club-auth-application-mq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-common/xpu-club-auth-common.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-common/xpu-club-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-domain/xpu-club-auth-domain.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-domain/xpu-club-auth-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-infra/xpu-club-auth-infra.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-infra/xpu-club-auth-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-starter/xpu-club-auth-starter.iml" filepath="$PROJECT_DIR$/xpu-club-auth/xpu-club-auth-starter/xpu-club-auth-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-common/xpu-club-common.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-common/xpu-club-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-domain/xpu-club-domain.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-domain/xpu-club-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-gateway/xpu-club-gateway.iml" filepath="$PROJECT_DIR$/xpu-club-gateway/xpu-club-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-infra/xpu-club-infra.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-infra/xpu-club-infra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-oss/xpu-club-oss.iml" filepath="$PROJECT_DIR$/xpu-club-oss/xpu-club-oss.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-starter/xpu-club-starter.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-starter/xpu-club-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-subject.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-subject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-subject/xpu-club-subject-api/xpu-club-subject-api.iml" filepath="$PROJECT_DIR$/xpu-club-subject/xpu-club-subject-api/xpu-club-subject-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xpu-club-wx/xpu-club-wx.iml" filepath="$PROJECT_DIR$/xpu-club-wx/xpu-club-wx.iml" />
+    </modules>
+  </component>
+</project>

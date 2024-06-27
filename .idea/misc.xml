@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/xpu-club-subject/pom.xml" />
+        <option value="$PROJECT_DIR$/xpu-club-oss/pom.xml" />
+        <option value="$PROJECT_DIR$/xpu-club-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/xpu-club-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/xpu-club-wx/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/xpu-club-subject/xpu-club-application-job/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
